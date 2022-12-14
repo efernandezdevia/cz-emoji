@@ -31,7 +31,7 @@ async function getConfig() {
     types,
     symbol: false,
     skipQuestions: [''],
-    subjectMaxLength: 75,
+    subjectMaxLength: 100,
     conventional: false
   }
 
